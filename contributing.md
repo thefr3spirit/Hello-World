@@ -78,173 +78,38 @@ This presentation covered the fundamentals of technical documentation in softwar
 #### Group-3: Documentation Types and Standards
 | **Name**               | **RegNo**         |
 |-------------------------|------------------|
-| Murungi Kevin Tumaini     | 2023/BSE/094/PS  |
-| Mbabazi Patience          | 2023/BSE/079/PS  |
-| Mwunvaneeza Godfrey   | 2023/BSE/100/PS  |
-| Ainamaani Allan Mwesigye       | 2023/BSE/151/PS  |
-| Ochwo Denis        | 2023/BSE/164/PS  |
+| Atukwase Godson    | 2023/BSE/032/PS  |
+| Ataho Ronnie         | 2023/BSE/028/PS  |
+| Mubangizi Ambrose | 2023/BSE/084/PS  |
+| Mutesi Flavia Kirabo       | 2023/BSE/095/PS  |
+| Mucureezi Oliviah        | 2023/BSE/085/PS  |
 
 ### Key Aspects
 
-- **Document Types**  
-  - Code documentation(Inline & API documentation)
-  - Design documentation(Internal & External documentation)
-  - User/Operator documentation(Manuals, Tutorials, etc)
-- **Copyrights and Licensing**  
-  - License Types(Proprietary & Opensource)
-- **Plagiarism**  
-  - Forms of Plagiarism(Direct Copying, Paraphrasing without credit, Mosaic Plagiarism, Self Plagiarism, etc)
-- **Standards**  
-  - IEEE
-  - ISO
+Our presentation focused on Software Standards, which are formal guidelines and best practices that ensure software is developed with quality, reliability, and consistency.
+Key international bodies such as ISO, IEC, and IEEE define these standards.
 
-#### Group-5: Software Standards
-| **Name**               | **RegNo**         |
-|-------------------------|------------------|
-| Arinda Jordan           | 2023/BSE/024/PS  |
-| Kihagame Ismael         | 2023/BSE/065/PS  |
-| Labeja John Baptist     | 2023/BSE/071/PS  |
-| Namanya Mervin          | 2023/BSE/105/PS  |
-| Arinaitwe Allan         | 2023/BSE/160/PS  |
+## Main Categories
 
----
+- Product Standards: Define quality and performance benchmarks (e.g., ISO/IEC 25010).
 
-###  Purpose
-To ensure software is developed with **quality**, **consistency**, and **reliability** through recognized guidelines and practices.
+- Process Standards: Outline development life cycle practices (e.g., ISO/IEC 12207).
 
----
+- Coding Standards: Promote consistent, maintainable code (e.g., IEEE 730).
 
-###  Types of Standards
-- **Product:** Defines quality and performance needs.  
-- **Process:** Guides the development life cycle.  
-- **Coding:** Ensures readable and maintainable code.  
-- **Documentation:** Promotes clear, complete records.  
-- **Testing:** Verifies that software meets requirements.
+- Documentation Standards: Ensure clear and complete documentation (e.g., IEEE 1063).
 
----
+- Testing Standards: Provide structured testing frameworks (e.g., ISO/IEC/IEEE 29119).
 
-###  Importance
-- **Quality Assurance** – Improves reliability and performance.  
-- **Interoperability** – Enables system compatibility.  
-- **Maintainability** – Simplifies updates and debugging.  
-- **Communication** – Builds a shared technical language.  
-- **Security** – Protects against risks and vulnerabilities.
+## Importance
 
----
+- Software standards enhance:
 
-###  Summary
-Software standards provide the **framework for quality software**, ensuring consistency, collaboration, and safety across development.
+- Quality assurance and interoperability
 
- 
-**Group-13: Collaboration and Document Control**
+- Maintainability and team communication
 
-**Names and Reg. Numbers**  
-- Mugumya Edwin — 2023/BSE/087/PS  
-- Muhiirwa Enock — 2023/BSE/088/PS  
-- Nahabwe Monic — 2023/BSE/083/PS  
-- Twesigye Tonny — 2023/BSE/147/PS  
-- Ainembabazi Brendah — 2023/BSE/009/PS  
-### Purpose  
-Collaboration and document control ensure consistency, traceability, and quality in software documentation. They enable distributed teams to co-author, review, and manage technical documents efficiently throughout the software development lifecycle.
-
-### Key Aspects  
-
-#### 1. Version Control  
-Establishes systematic tracking of document revisions using tools like Git, GitHub, or GitLab.  
-Each modification is recorded with author, timestamp, and commit message, allowing rollback, comparison, and accountability.
-
-#### 2. Collaborative Editing  
-Promotes simultaneous contributions from developers, editors, and stakeholders using cloud-based tools such as Google Docs, Confluence, and SharePoint.  
-Supports real-time editing, inline commenting, and feedback integration.
-
-#### 3. Change Management  
-Defines the process of submitting, reviewing, approving, and communicating document modifications.  
-Implements Change Requests (CRs), review boards, and revision logs to maintain document integrity and compliance.
-
-#### 4. Document Control Best Practices  
-- Maintain a single master copy in a centralized repository.  
-- Apply clear naming conventions and version numbering.  
-- Record all updates in a change log.  
-- Assign document ownership and approval responsibilities.  
-
-### Importance  
-- Quality Assurance: Ensures documentation remains accurate and up-to-date across project phases.  
-- Traceability: Every change is linked to its author and purpose, enabling full audit trails.  
-- Collaboration Efficiency:Enhances teamwork, reduces duplication, and aligns contributions from multiple stakeholders.  
-- Compliance and Accountability: Meets organizational and industry documentation standards.  
-
-### Examples of Tools and Applications  
-- Version Control: Git, GitHub, GitLab  
-- Co-authoring Tools:Google Docs, Confluence, Microsoft SharePoint  
-- Review Management: Merge/Pull Requests, Inline Comments, Issue Tracking
-
-
-## Collaboration and Document Control
-- This document presents key insights on how collaboration and document control enhance efficiency, consistency, and traceability in software documentation.
-
----
-
-### Group-14: Collaboration and Document Control
-| **Name**               | **RegNo**         |
-|-------------------------|------------------|
-| AGUMYA NYSON            | 2023/BSE/005/PS  |
-| OGWAL BILL EDWIN        | 2023/BSE/126/PS  |
-| AMWINE LIAM ABAASA      | 2023/BSE/018/PS  |
-| AYEBARE PATIENCE PRAISE | 2023/BSE/037/PS  |
-| KAMUKAMA SIMON PERTER   | 2023/BSE/0059/PS |
-
-
----
-
-### Introduction
-**Have you ever seen a file named “final_final_reallyfinal.docx”?**  
-This common scenario illustrates the chaos caused by poor documentation management — multiple editors, no unified version, lost data, and no way to track *who changed what*.
-
----
-
-### Why Documentation Chaos Matters
-- Multiple editors with no synchronization.  
-- Lost data and duplicated work.  
-- No version tracking or accountability.  
-
-**Solution:**  
-Developers applied engineering principles — *if we can control code, we can control documents.*
-
----
-
-### What is Collaboration?
-> The process where individuals, teams, or organizations work together, using tools and practices, to build or maintain software.
-
-**Key Features:**
-- Shared goals  
-- Communication and coordination  
-- Knowledge sharing  
-- Leveraging diverse perspectives  
-- Use of tools and best practices  
-- Iterative improvements  
-
----
-
-### Version Control
-> Imagine constructing a building and realizing you can’t undo a mistake — version control makes “undo” possible in software documentation.
-
-**Types of Version Control Systems**
-| **Category** | **Examples** |
-|---------------|--------------|
-| **Distributed Code VC** | Git, Mercurial (Hg), Fossil, GNU Bazaar |
-| **Data VC** | DVC, Delta Lake, Dolt, Git LFS |
-| **Centralized VC** | SVN, Perforce, ClearCase |
-| **Database VCS** | Flyway, Liquibase |
-
----
-
-### What is Document Control?
-> The systematic management of an organization's documents, ensuring their accuracy, security, and accessibility throughout their lifecycle—from creation to archiving.
-
-**Why It Matters**
-- Keeps documents accurate, discoverable, and auditable.  
-- Reduces support costs and risks of non-compliance.  
-- Enables traceability: *who changed what and why.*
+- Safety and security through compliance and best practices
 
 ---
 
@@ -286,3 +151,124 @@ Collaboration and Document Control are vital for:
 
 Together, they transform documentation from chaos into a controlled, auditable, and collaborative process.
 
+## Group 15: Editing, Proofreading & Quality Assurance in Technical Documentation
+
+**Topic:**  
+Our presentation explored the essential processes involved in maintaining high-quality technical documentation. We emphasized the three levels of editing—**developmental editing**, **copyediting**, and **proofreading**—and how each contributes to clarity, consistency, and accuracy. Additionally, we discussed the significance of navigational elements like glossaries, indexes, and tables of contents (TOCs), as well as the critical role of Subject Matter Experts (SMEs) and quality assurance tools.
+
+---
+
+### 🧩 Key Aspects Covered
+- **Three Levels of Editing:** Developmental, Copyediting, and Proofreading.  
+- **Navigational Elements:** Glossaries, Indexes, and Tables of Contents for better document usability.  
+- **Technical Accuracy:** The importance of Subject Matter Expert (SME) reviews.  
+- **Tools & Best Practices:** Using tools such as Grammarly, ProWritingAid, and Markdownlint to maintain consistency and accuracy.  
+- **Quality Assurance:** Ensuring professional, polished, and error-free documentation ready for publication.  
+
+---
+
+### 👥 Group Members
+
+| **Name**              | **Registration Number** |
+|------------------------|-------------------------|
+| Kamukama Osbert        | 2023/BSE/058/PS |
+| Ahebwa Faith           | 2023/BSE/006/PS |
+| Kyarimanya Davis       | 2023/BSE/070/PS |
+| Kihembo Daniel         | 2023/BSE/066/PS |
+| Tindyebwa Ignatious    | 2023/BSE/143/PS |
+| Bwambale Martin        | 2023/BSE/042/PS |
+
+
+GROUP 7
+Topic:Document Design and Information Architecture
+Group Members
+
+Ainebyoona Micheal   2023/BSE/008/PS
+
+Atuhe Joel           2023/BSE/031/PS
+
+Babirye Proscovia     2023/BSE/038/PS
+
+Nyakato Sheila        2023/BSE/124/PS
+
+Owamaani Mwesigwa     2023/BSE/136/PS
+
+1. Introduction
+
+Document Design and Information Architecture (IA) are two closely related disciplines that focus on how information is structured, organized, and visually presented to enhance communication, understanding, and usability.
+
+Together, they ensure that information is not only well-organized but also visually appealing and easy to access.
+
+2. What is Document Design?
+
+Document Design is the art of structuring content to make it readable, accessible, and visually appealing.
+It determines how information is displayed through layout, typography, color, and spacing.
+
+Key Principles of Document Design
+
+Proximity: Place related elements close together to show their connection.
+
+Contrast: Use variations in size, color, or shape to highlight important elements.
+
+Whitespace: Leave space around text and images to avoid clutter and improve readability.
+
+Alignment: Arrange elements neatly so their edges line up, creating a professional appearance.
+
+Page Layout Guidelines
+
+Fonts: Use only a few fonts. 
+
+Margins: Maintain one-inch margins on all sides.
+
+Headings and Numbering: Use a hierarchical numbering system 
+
+Tables and Figures: Number by section; captions go above tables and below figures.
+
+White Space: Avoid crowding; white space makes reading easier.
+
+Document Design Techniques
+
+Layout: Use grids for alignment and balance.
+
+Typography: Select clear, readable fonts and limit font types for consistency.
+
+Color and Visuals: Use complementary colors and apply visual hierarchy with headings and images.
+
+3. What is Information Architecture (IA)?
+
+Information Architecture is the practice of organizing, structuring, and labeling information so that users can easily find, understand, and use it.
+
+Principles of Information Architecture
+
+Findability: Information should be easy to locate and navigate.
+
+Accessibility: Content must be usable by everyone, including people with disabilities.
+
+Scalability: The structure should support future content growth.
+
+Flexibility: Allow multiple paths (menus, search, tags) to access the same information.
+
+IA Techniques
+
+Content Grouping: Create logical clusters of related information.
+
+Navigation Design: Use menus, breadcrumbs, and search functions.
+
+Labeling Systems: Use clear, descriptive labels for easy understanding.
+
+User Testing: Validate structure and usability with real users.
+
+
+####  Group-4: Types of Documentation
+| **Name**               | **RegNo**         |
+|-------------------------|------------------|
+| EMOU MARTIN SHALOM      | 2023/BSE/049/PS  |
+| IKAYO EMMANUEL          | 2023/BSE/050/PS  |
+| AINIMUJUNI YOVAN        | 2023/BSE/158/PS  |
+| OKELLO DAVID            | 2023/BSE/127/PS  |
+| MUWONGE STUART          | 2023/BSE/097/PS  |
+
+### Key Aspects
+- Types of documentation.
+- Copyright and licensing.
+- Standards and Controls.
