@@ -57,6 +57,25 @@ Visuals convert complex concepts into clear, structured, and digestible informat
 
 
 
+#### Group-10: Markup Lnguages and Single Source Publishing
+| **Name**               | **RegNo**         |
+|-------------------------|------------------|
+| Niwomuriisa Grace     | 2023/BSE/162/PS  |
+| Niwataho Saraphina          | 2023/BSE/114/PS  |
+| Niwensiima Shian| 2023/BSE/115/PS  |
+| Tuheirwe Joshua       | 2023/BSE/144/PS  |
+
+### Key Aspects
+## Understanding markup languaeges
+- what are web tags?
+- what markup language does?
+- types of markup languages
+## Single source publishing
+- how single source publishing works
+- advantages and disadvantages of single source publishing.
+
+- 
+
 
 
 
