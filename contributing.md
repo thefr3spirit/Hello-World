@@ -320,5 +320,32 @@ Well-structured API documentation is vital in software engineering as it enables
 
 ## Key Takeaways
 API documentation serves as the critical interface between API providers and consumers. Effective documentation should be comprehensive, interactive, and maintainable to ensure seamless integration and developer satisfaction. The tools and practices discussed provide frameworks for creating documentation that scales with API evolution while maintaining clarity and accuracy.
+#Group-12: Diagramming and Visual Communication
+Name	RegNo
+Masereka Junior	2023/BSE/076/PS
+Tumuhimbise Peter	2023/BSE/157/PS
+Katusabe Anna	2023/BSE/062/PS
+Nkahebwa Conerious 2023/BSE/116/PS
+Wasike Hanani Elizabeth	2023/BSE/148/PS
+Purpose:
+Understanding the role of visual in effective communication.
+
+Key Aspects
+Clarify processes and workflow. 
+Represent system structure. 
+Communicate relationship and hierarchies 
+Improves memory and comprehension
+
+Examples
+Flowcharts
+UML Diagrams
+Architectural Diagrams
+Screenshots
+Diagramming Tools
+Tools for diagramming include:
+Draw.io
+Lucidchart
+Microsoft visio
+Figma/Canva
 
 ---
